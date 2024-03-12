@@ -1,0 +1,14 @@
+D:\VS\Homework_Exceptions\Homework_Exceptions\bin\Debug\net6.0\Homework_Exceptions.exe
+D:\VS\Homework_Exceptions\Homework_Exceptions\bin\Debug\net6.0\Homework_Exceptions.deps.json
+D:\VS\Homework_Exceptions\Homework_Exceptions\bin\Debug\net6.0\Homework_Exceptions.runtimeconfig.json
+D:\VS\Homework_Exceptions\Homework_Exceptions\bin\Debug\net6.0\Homework_Exceptions.dll
+D:\VS\Homework_Exceptions\Homework_Exceptions\bin\Debug\net6.0\Homework_Exceptions.pdb
+D:\VS\Homework_Exceptions\Homework_Exceptions\obj\Debug\net6.0\Homework_Exceptions.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS\Homework_Exceptions\Homework_Exceptions\obj\Debug\net6.0\Homework_Exceptions.AssemblyInfoInputs.cache
+D:\VS\Homework_Exceptions\Homework_Exceptions\obj\Debug\net6.0\Homework_Exceptions.AssemblyInfo.cs
+D:\VS\Homework_Exceptions\Homework_Exceptions\obj\Debug\net6.0\Homework_Exceptions.csproj.CoreCompileInputs.cache
+D:\VS\Homework_Exceptions\Homework_Exceptions\obj\Debug\net6.0\Homework_Exceptions.dll
+D:\VS\Homework_Exceptions\Homework_Exceptions\obj\Debug\net6.0\refint\Homework_Exceptions.dll
+D:\VS\Homework_Exceptions\Homework_Exceptions\obj\Debug\net6.0\Homework_Exceptions.pdb
+D:\VS\Homework_Exceptions\Homework_Exceptions\obj\Debug\net6.0\Homework_Exceptions.genruntimeconfig.cache
+D:\VS\Homework_Exceptions\Homework_Exceptions\obj\Debug\net6.0\ref\Homework_Exceptions.dll
